@@ -1,7 +1,6 @@
 # ZarpPerp issues
 Report all zarp PERP issues and/or bugs here.
-
-Follow the following format:
+Please follow the following format if you're reporting a bug or issue:
 
 What type of problem is it (Bug/Glitch) and what is it ?
 
